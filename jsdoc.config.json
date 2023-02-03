@@ -1,0 +1,24 @@
+{
+  "plugins": ["plugins/markdown"],
+  "markdown": {
+    "hardwrap": true
+  },
+  "recurseDepth": 10,
+  "source": {
+    "include": [".", "src", "model"],
+    "includePattern": ".+\\.js(doc|x)?$",
+    "excludePattern": "(^|\\/|\\\\)_"
+  },
+  "sourceType": "module",
+  "tags": {
+    "allowUnknownTags": true,
+    "dictionaries": ["jsdoc", "closure"]
+  },
+  "templates": {
+    "cleverLinks": false,
+    "monospaceLinks": false
+  },
+  "opts": {
+    "readme": "README.md"
+  }
+}
