@@ -21,6 +21,6 @@
   "opts": {
     "readme": "README.md",
     "encoding": "utf8",
-    "destination": "./dist/"
+    "destination": "./docs/"
   }
 }
