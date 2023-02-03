@@ -19,6 +19,8 @@
     "monospaceLinks": false
   },
   "opts": {
-    "readme": "README.md"
+    "readme": "README.md",
+    "encoding": "utf8",
+    "destination": "./dist/"
   }
 }
