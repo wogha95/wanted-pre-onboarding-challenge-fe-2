@@ -2,10 +2,9 @@
   "name": "wanted-pre-onboarding-challenge-fe-2",
   "version": "1.0.0",
   "description": "프리온보딩 프론트엔드 챌린지 (typescript) 2023.02",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gh-pages -d docs"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -13,11 +12,5 @@
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/wogha95/wanted-pre-onboarding-challenge-fe-2#readme",
-  "dependencies": {
-    "jsdoc": "^4.0.0"
-  },
-  "devDependencies": {
-    "gh-pages": "^5.0.0"
-  }
+  "homepage": "https://github.com/wogha95/wanted-pre-onboarding-challenge-fe-2#readme"
 }
